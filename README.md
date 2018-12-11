@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 10th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Kalien Keys
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project allowed me to create a movie database application.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kzk15fsu.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to parse JSON data from an HTTP response message
+2. Use various AJAX methods
+3. Use the JavaScript console to view JSON response - troubleshooting
+4. Obtain an API Key
+5. Utilize TMDb
